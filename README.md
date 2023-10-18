@@ -1,6 +1,6 @@
 <h3 align="center">A 4th year Information Student in New Era University</h3>
 
-(https://www.linkedin.com/in/denzel-navarro-82897b228/overlay/background-image/)
+![I am GitHub Readme Generator's creator](https://www.linkedin.com/in/denzel-navarro-82897b228/overlay/background-image/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
