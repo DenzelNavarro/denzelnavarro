@@ -1,7 +1,5 @@
 <h3 align="center">A 4th year Information Student in New Era University</h3>
 
-![I am GitHub Readme Generator's creator](https://www.linkedin.com/in/denzel-navarro-82897b228/overlay/background-image/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/denzeru-navarro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/denzeru-navarro" height="30" width="40" /></a>
